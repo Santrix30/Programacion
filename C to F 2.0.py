@@ -16,8 +16,6 @@ def Fahren():
 def Celsi():
     return (Eleccion-32)*1,8
 
-def Celsius1():
-    return (i-32)*1.8
 
 for i in range(Veces):
     Temperaturas.append((alazar()))
